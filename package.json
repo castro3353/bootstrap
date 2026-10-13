@@ -140,7 +140,7 @@
     "stylelint-scss": "^3.2.0",
     "uglify-js": "^3.4.6",
     "vnu-jar": "^18.7.23",
-    "workbox-build": "^3.4.1"
+    "workbox-build": "^7.4.1"
   },
   "engines": {
     "node": ">=6"
